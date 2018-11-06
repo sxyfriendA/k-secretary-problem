@@ -8,4 +8,4 @@
 5.   An applicant once rejected cannot later be re- called. (一个受试者当被拒绝时不能再之后再次被召回)
 6. You are very particular and will be satisfied with nothing but the very best. (That is, your payoff is 1 if you choose the best of the n applicants and O otherwise
    （只有选到最佳的人时数学期望为1，其余情况数学期望均为0）
-   
+   \sum
